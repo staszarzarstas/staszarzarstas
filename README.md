@@ -1,9 +1,8 @@
-<img src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/65e7eb8160b33c2ef96ae4b88497088c.gif">
+<div align='center'>
+  <img align='center' src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/65e7eb8160b33c2ef96ae4b88497088c.gif">
+</div>
 
-
-
-### Hi all, I'm Stanislav  <img  src='![affine](https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/accenture.svg)'/> 
-
+### Hi all, I'm Stanislav  <img src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/accenture.svg" height="30"/>
 
 ## I'm a Front-end Developer
 
@@ -11,9 +10,7 @@
 - 💻 Front-end developer
 - 👨‍💻 Enthusiast 
 
-
 ### 🤝 Connect with me:
-
 
 [<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
 
@@ -39,14 +36,4 @@
 
 ---
 
-
-
-
-
-[telegram]: https://t.me/@divclassname
-[instagram]: https://instagram.com/YauhenKavalchuk
-[linkedin]: https://linkedin.com/in/YauhenKavalchuk
-[vk]: https://vk.com/YauhenKavalchuk
-[twitter]: https://twitter.com/YauhenKavalchuk
-[sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
-[patron]: https://www.patreon.com/YauhenKavalchuk
+[telegram]: https://t.me/divclassname
