@@ -1,5 +1,5 @@
 <div align='center'>
-  <img width='846' height='260' align='center' src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/code.gif">
+  <img width='500' height='260' align='center' src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/3.gif">
 </div>
 
 ### Hi all, I'm Stanislav  <img height='10' src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/accenture.svg" height="30"/>
