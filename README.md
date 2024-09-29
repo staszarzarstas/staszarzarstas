@@ -10,9 +10,12 @@
 - 💻 Front-end developer
 - 👨‍💻 Enthusiast 
 
-### 🤝 Connect with me:
-
-[<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]
+### 🌐 Let's Connect:
+[<p align='left'>
+<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram] 
+&nbsp;
+<a href="mailto:yungfefebeatss@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" /></a>&nbsp;
+</p>
 
 ---
 
@@ -34,6 +37,14 @@
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 
----
+--- 
+
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=staszarzarstas&show_icons=true&theme=tokyonight" alt="Stanislav's GitHub Stats" />
+</p>
+
+
 
 [telegram]: https://t.me/divclassname
