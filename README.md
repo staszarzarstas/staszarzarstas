@@ -1,8 +1,8 @@
 <div align='center'>
-  <img align='center' src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/65e7eb8160b33c2ef96ae4b88497088c.gif">
+  <img width='846' height='260' align='center' src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/65e7eb8160b33c2ef96ae4b88497088c.gif">
 </div>
 
-### Hi all, I'm Stanislav  <img src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/accenture.svg" height="30"/>
+### Hi all, I'm Stanislav  <img height='10' src="https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/accenture.svg" height="30"/>
 
 ## I'm a Front-end Developer
 
