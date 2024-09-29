@@ -2,7 +2,7 @@
 
 
 
-### Hi all, I'm Stanislav 👋 <img justify-content="center" align='right' src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+### Hi all, I'm Stanislav  <img  src='![affine](https://github.com/staszarzarstas/staszarzarstas/blob/main/asset/accenture.svg)'/> 
 
 
 ## I'm a Front-end Developer
