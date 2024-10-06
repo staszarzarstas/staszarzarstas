@@ -11,9 +11,13 @@
 - 👨‍💻 Enthusiast 
 
 ### 🌐 Let's Connect:
-[<p align='left'>
-<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>][telegram]&nbsp;
-<a href="mailto:yungfefebeatss@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" /></a>&nbsp;
+<p align='left'>
+  <a href="https://t.me/divclassname" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>&nbsp;
+  <a href="mailto:yungfefebeatss@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+  </a>&nbsp;
 </p>
 
 ---
